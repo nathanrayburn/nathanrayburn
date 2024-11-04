@@ -1,4 +1,5 @@
 # A simple Cybersecurity Engineer trying to buy a Porsche
+
 ```bash
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠄⠒⠒⠒⠀⠀⠀⠒⠒⠒⠢⠤⢄⠀⣀⣤⣿⣿⡿⠿⠿⠷⣶⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣾⣿⣿⣟⣉⣉⣁⡀⠀⢀⠂⢸⡏⢻⣿⡷⣶⣿⣛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠓⠒⢶⣶⣶⠗⢲⣏⣁⣠⡾
@@ -18,3 +19,11 @@
 ⠈⠂⠙⠫⠿⣟⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⣽⣭⣭⣭⣭⣭⣿⣿⣟⣛⣛⣛⣛⣛⣩⠥⣼⣿⣿⣶⣤⣈⣁⣀⣤⠵⠚⠁⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⠛⠛⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠟⠛⠛⠛⠛⠒⠒⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+
+## Awesome links if you get bored
+
+[ctf](https://github.com/nathanrayburn/ctf_journey)
+[Crypto Lab - Vigenere and Ceasar Statistics](https://github.com/nathanrayburn/crypto_lab01)
+[Crypto Lab - Symmetric & Mac Forgering](https://github.com/nathanrayburn/crypto_labo2/tree/main)
+[Crypto Lab - Asymmetric, CRT Signature physical bug & ECDSA No Random ](https://github.com/nathanrayburn/crypto_labo3)
+[Crypto Lab - Setting up our own certificate chain & Testssl validation](https://github.com/nathanrayburn/crypto_labo4)
