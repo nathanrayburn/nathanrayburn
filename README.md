@@ -22,7 +22,8 @@
 
 ## Awesome links if you get bored
 
-- [CTF -  Journal - (Should have started noting writeups earlier oups)](https://github.com/nathanrayburn/ctf_journey)
+- **Journal**
+	- [CTF -  Journal - (Should have started noting writeups earlier oups)](https://github.com/nathanrayburn/ctf_journey)
 - **Crypto**
 	- [CTF - Crypto Lab - Vigenere and Ceasar Statistics](https://github.com/nathanrayburn/crypto_lab01)
 	- [CTF - Crypto Lab - Symmetric & Mac Forgering](https://github.com/nathanrayburn/crypto_labo2/tree/main)
