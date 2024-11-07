@@ -29,8 +29,8 @@
 	- [CTF - Crypto Lab - Symmetric & Mac Forgering](https://github.com/nathanrayburn/crypto_labo2/tree/main)
 	- [CTF - Crypto Lab - Asymmetric, CRT Signature physical bug & ECDSA No Random ](https://github.com/nathanrayburn/crypto_labo3)
 	- [Crypto Lab - Setting up our own certificate chain & Testssl validation](https://github.com/nathanrayburn/crypto_labo4)
-	- [Crypto Lab - vault - Coming soon](https://github.com/nathanrayburn/caa/blob/main/labo_01/setup_vault_script.sh)
-	- [Crypto Lab - ECDSA Cracking - CTF - Coming soon](https://github.com/nathanrayburn/caa/blob/main/labo_02/caa_labo_2.pdf)
+	- [Crypto Lab - vault](https://github.com/nathanrayburn/caa/blob/main/labo_01/setup_vault_script.sh)
+	- [Crypto Lab - ECDSA Cracking - CTF](https://github.com/nathanrayburn/caa/blob/main/labo_02/caa_labo_2.pdf)
 - **Reverse Engineering**
 	- [Reverse Engineering Lab - Simple Malware](https://github.com/nathanrayburn/slb/blob/main/Lab01/doc/rapport.md)
 - **High Level Security**
