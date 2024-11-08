@@ -32,6 +32,7 @@
 	- [Crypto Lab - vault](https://github.com/nathanrayburn/caa/blob/main/labo_01/setup_vault_script.sh)
 	- [CTF - Crypto Lab - ECDSA Cracking](https://github.com/nathanrayburn/caa/blob/main/labo_02/caa_labo_2.pdf)
    	- [CTF - Blum Blum Shub - Blackalps CTF Event](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_bbs/bbs_writeup.pdf)
+   	- [CTF - Sponge - Blackalps CTF Event (Coming soon)]()
 - **Reverse Engineering**
 	- [Reverse Engineering Lab - Simple Malware](https://github.com/nathanrayburn/slb/blob/main/Lab01/doc/rapport.md)
 - **High Level Security**
