@@ -36,7 +36,11 @@
    	- [CTF - Sponge - Blackalps CTF Event](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_sponge/writeup_sponge.pdf)
 	
 - **Reverse Engineering**
-	- [Reverse Engineering Lab - Simple Malware](https://github.com/nathanrayburn/slb/blob/main/Lab01/doc/rapport.md)
+	- [Reverse Engineering Lab - Simple Malware](https://github.com/nathanrayburn/reverse_engineering/tree/main/Lab01)
+	- [Reverse Engineering Lab - Linux Security](https://github.com/nathanrayburn/reverse_engineering/tree/main/Lab02)
+	- [Reverse Engineering Lab - Shikata ga nai](https://github.com/nathanrayburn/reverse_engineering/tree/main/Lab03)
+- **Penetration** 
+	- 
 - **High Level Security**
 	- [CTF - High Level Security Lab- XSS & CRSF](https://github.com/nathanrayburn/SLH/tree/main/lab01)
 	- [CTF - Web]()
