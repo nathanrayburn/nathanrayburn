@@ -18,6 +18,11 @@ My academic projects and hands-on experience have equipped me with technical ski
 	- [CTF - Cryptography Lab - ECDSA Cracking](https://github.com/nathanrayburn/cryptography/blob/main/caa_labo2/report.pdf)
    	- [CTF - Blum Blum Shub - Blackalps CTF Event](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_bbs/bbs_writeup.pdf)
    	- [CTF - Sponge - Blackalps CTF Event](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_sponge/writeup_sponge.pdf)
+	- **Side Channel Attacks**
+		- [CTF - AES trace leak 10th round](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca1/attack_template.ipynb)
+		- [CTF - AES trace leak 10th round hamming weights](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca2/attack_template.ipynb)
+		- [CTF - AES trace leak contains random elements with state 10th round](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca3/attack_template.ipynb)
+		- [CTF - AES trace leak contains random elements and noise 10th round](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca4/attack_template.ipynb)
 	
 - **Reverse Engineering**
 	- [Reverse Engineering Lab - Simple Malware](https://github.com/nathanrayburn/reverse_engineering/tree/main/Lab01)
