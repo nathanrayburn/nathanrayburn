@@ -23,6 +23,7 @@ My academic projects and hands-on experience have equipped me with technical ski
 		- [CTF - AES trace leak 10th round hamming weights](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca2/attack_template.ipynb)
 		- [CTF - AES trace leak contains random elements with state 10th round](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca3/attack_template.ipynb)
 		- [CTF - AES trace leak contains random elements and noise 10th round](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca4/attack_template.ipynb)
+		- [CTF - AES trace leak on real chip](https://github.com/nathanrayburn/cryptography/blob/main/sfa_real_aes/attack_template.ipynb)
 	
 - **Reverse Engineering**
 	- [Reverse Engineering Lab - Simple Malware](https://github.com/nathanrayburn/reverse_engineering/tree/main/Lab01)
