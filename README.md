@@ -3,8 +3,11 @@
 I am a motivated and detail-oriented 23-year-old student pursuing a degree in Computer Science Engineering with a specialization in Cybersecurity. Currently in my final year, I am on track to graduate in September 2025. With a strong foundation in network security, ethical hacking, and risk management, I am passionate about protecting digital infrastructures and mitigating cyber threats.
 
 
-
 My academic projects and hands-on experience have equipped me with technical skills in tools for Red Team and Blue team, as well as a solid understanding of security frameworks and compliance standards. I am eager to contribute to a dynamic organization where I can apply my knowledge, continue learning, and grow as a cybersecurity professional.
+
+My bachelor thesis concerns vulnerability research, exploring a proof-of-concept attack on UEFI Secure Boot through the use of an Evil-NVMe device capable of Direct-Access-Memory. The core objective is to demonstrate how a carefully timed and positioned memory modification can subvert the Secure Boot trust chain, even on modern systems that appear in the industry.
+I was able to discover vulnerabilities allowing to bypass Secure Boot, on modern motherboards that don't enforce proper configuration within the UEFI against Direct-Access-Memory threats.
+
 
 ## Capture the flags and  laboratories
 
