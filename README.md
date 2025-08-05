@@ -5,7 +5,7 @@ I am a motivated 23-year-old Computer Science Engineer specialized in Cybersecur
 You can read the abstract here: [Linux Hardening — Securing the Boot Process (PDF)
 ](https://github.com/nathanrayburn/publishable_thesis_abstract/blob/main/nathanrayburn_thesis_abstract.pdf)
  
-My work focused on offensive security research, bridging low-level firmware analysis with practical hacking on gaming motherboards. This leaded me to discovering vulnerabilities allowing to bypass Secure boot on update to date modern motherboards.
+My work focused on offensive security research, bridging low-level firmware analysis with practical hacking Secure Boot on gaming motherboards. This leaded me to discovering vulnerabilities allowing to bypass Secure boot on update to date modern motherboards.
 
 My academic projects and hands-on experience have equipped me with technical skills in tools for Red Team and Blue team, as well as a solid understanding of security frameworks and compliance standards.
 
