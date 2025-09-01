@@ -2,7 +2,7 @@
 
 I am a motivated 23-year-old Computer Science Engineer specialized in Cybersecurity. I recently completed my Bachelor’s degree with a thesis titled “Linux Hardening: Securing the Boot Process”, where I explored hardware-level attacks on UEFI Secure Boot using custom-built DMA-capable devices. 
 
-You can read the abstract here: [Linux Hardening — Securing the Boot Process (PDF)
+You can read the abstract here how I discovered a vulnerability (CVE): [Linux Hardening — Securing the Boot Process (PDF)
 ](https://github.com/nathanrayburn/publishable_thesis_abstract/blob/main/nathanrayburn_thesis_abstract.pdf)
  
 My work focused on offensive security research, bridging low-level firmware analysis with practical hacking Secure Boot on gaming motherboards. This leaded me to discovering vulnerabilities allowing to bypass Secure boot on update to date modern motherboards.
