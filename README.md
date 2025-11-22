@@ -14,7 +14,7 @@ My academic projects and hands-on experience have equipped me with technical ski
 
 - **Cryptography**
     - [CTF - Mix Signatures Blackalps CTF Event 2025](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_mixsign/writeup_mixsignatures.pdf)
-    - [CTF - Cryptography Lab - ECDSA Cracking](https://github.com/nathanrayburn/cryptography/blob/main/caa_labo2/report.pdf)
+
    	- [CTF - Blum Blum Shub - Blackalps CTF Event 2024](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_bbs/bbs_writeup.pdf)
    	- [CTF - Sponge - Blackalps CTF Event 2024](https://github.com/nathanrayburn/ctf_journey/blob/main/writeups/crypto_sponge/writeup_sponge.pdf)
    	- ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,6 +24,7 @@ My academic projects and hands-on experience have equipped me with technical ski
 	- [Cryptography Lab - Setting up our own certificate chain & Testssl validation](https://github.com/nathanrayburn/cryptography/blob/main/cry_labo4/report.pdf)
 	- [Cryptography Lab - vault](https://github.com/nathanrayburn/cryptography/tree/main/caa_labo1)
 	- [Cryptography Mini Project](https://github.com/nathanrayburn/cryptography/blob/main/mini_project/report.pdf)
+    - [CTF - Cryptography Lab - Lattice ECDSA Cracking](https://github.com/nathanrayburn/cryptography/blob/main/caa_labo2/report.pdf)
 	- **Side Channel Attacks**
 		- [CTF - AES trace leak 10th round](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca1/attack_template.ipynb)
 		- [CTF - AES trace leak 10th round hamming weights](https://github.com/nathanrayburn/cryptography/blob/main/sfa_sca2/attack_template.ipynb)
